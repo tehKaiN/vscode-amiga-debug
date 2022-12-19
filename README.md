@@ -90,9 +90,12 @@ Here's a video showing off all the new features of v1.1, including the frame pro
   - [Primer](https://www.pouet.net/prod.php?which=91928) by Architect
 
 - Games
-  - [Tiny Invaders](http://www.pouet.net/prod.php?which=85458) by Abyss
-  - [Tiny Galaga](http://www.pouet.net/prod.php?which=85720) by Abyss
+  - [Atarenium Falcon](https://lastminutecreations.itch.io/atarenium-falcon) ([Source code](https://github.com/Last-Minute-Creations/AtareniumFalcon)) by Last Minute Creations
+  - [Chaos Arena](https://lastminutecreations.itch.io/chaos-arena) ([Source code](https://github.com/Last-Minute-Creations/chaosArena)) by Last Minute Creations
+  - [GermZ](https://lastminutecreations.itch.io/germz) ([Source code](https://github.com/Last-Minute-Creations/germz)) by Last Minute Creations
   - [Tiny Bobble](http://eab.abime.net/showthread.php?t=103546) by Abyss
+  - [Tiny Galaga](http://www.pouet.net/prod.php?which=85720) by Abyss
+  - [Tiny Invaders](http://www.pouet.net/prod.php?which=85458) by Abyss
   - [Tinyus](https://www.pouet.net/prod.php?which=88028) by Abyss
   - [Wrong Way Driver](https://www.pouet.net/prod.php?which=88705) by Abyss
 
